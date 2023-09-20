@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieApiFrontend/static/css/main.927a8c97.css",
+    "main.js": "/MovieApiFrontend/static/js/main.cae480eb.js",
+    "index.html": "/MovieApiFrontend/index.html",
+    "main.927a8c97.css.map": "/MovieApiFrontend/static/css/main.927a8c97.css.map",
+    "main.cae480eb.js.map": "/MovieApiFrontend/static/js/main.cae480eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927a8c97.css",
+    "static/js/main.cae480eb.js"
+  ]
+}
